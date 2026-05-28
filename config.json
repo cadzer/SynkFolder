@@ -1,0 +1,7 @@
+{
+  "downloads_path": "C:/Users/djell/Downloads",
+  "dry_run": true,
+  "watch_interval_seconds": 5,
+  "use_ai": true,
+  "ai_model": "gpt-4o-mini"
+}
