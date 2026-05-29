@@ -1,13 +1,13 @@
 # SynkFolder (AI)
 
-A Windows-friendly Python tool that automatically organizes your `Downloads` folder into clean subfolders.
+A Windows-friendly Python tool that automatically organizes your `Folders` into clean subfolders.
 
 ## Features
 
 - Rule-based sorting for common file types (Documents, Images, Videos, etc.)
 - AI-assisted classification for unknown file types (optional)
 - Safe mode (`dry_run`) so you can preview moves before applying
-- Continuous watch mode to organize new downloads automatically
+- Continuous watch mode to organize new files automatically
 - Duplicate-safe file naming
 
 ## Quick Start (Automatic Python Install on Windows)
